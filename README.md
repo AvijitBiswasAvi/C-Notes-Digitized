@@ -20,7 +20,7 @@ understood these concepts the first time.
 - Functions
 - Arrays and strings
 - Pointers
-- Dynamic Memory Allocation ( DMA)
+- Dynamic Memory Allocation ( DMA )
 - Recursion
 - Structs
 - File I/O
