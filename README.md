@@ -27,7 +27,7 @@ understood these concepts the first time.
 
 ## Notes
 
-- Written as part of a self-taught, first-principles approach to learning C
+- Written as part of a self-taught, first-principles approach to learning 'C'
 - A few pages flag corrections where I got something wrong the first time
 - Annotations are in Bengali and English
 
