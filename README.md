@@ -6,7 +6,7 @@ A digitized version of my handwritten C programming notes, converted into a desi
 
 I took these notes by hand as I worked through each concept in C — in a mix of Bengali 
 and English, with my own analogies for ideas that were hard to picture at first ( a pointer 
-as an address, call by value vs. call by reference as a wallet vs. a PIN).
+as an address, call by value vs. call by reference as a wallet vs. a PIN ).
 
 Rather than let those notes stay in a physical notebook, I digitized them into a single 
 PDF, keeping the original annotations and analogies intact since that's genuinely how I 
