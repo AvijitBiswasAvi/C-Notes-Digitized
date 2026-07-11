@@ -33,4 +33,4 @@ understood these concepts the first time.
 
 **[View the PDF](./Avijit_C_Notebook.pdf)**
 
-## Author - Avijit Biswas Avi 
+## Author - Avijit Biswas Avi ( White-Dev )
