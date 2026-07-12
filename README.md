@@ -32,5 +32,3 @@ understood these concepts the first time.
 - Annotations are in Bengali and English
 
 **[View the PDF](./Avijit_C_Notebook.pdf)**
-
-## Author - Avijit Biswas Avi ( White-Dev )
