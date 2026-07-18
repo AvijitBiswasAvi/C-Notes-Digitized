@@ -1,4 +1,4 @@
-# C Programming Notebook (Digitized)
+# C Programming Notebook ( Digitized )
 
 A digitized version of my handwritten C programming notes, converted into a designed PDF...
 
